@@ -746,22 +746,33 @@ groupid: 豆瓣小组的 id
 
 举例: [https://rsshub.app/jandan/pic](https://rsshub.app/jandan/pic)
 
+<<<<<<< HEAD
+
 # <<<<<<< HEAD
 
 路由: `/jandan/:sub_model`
 
 > > > > > > > 1487b50a71ee625af58aa0088b914b5ba35e7e21
 
+=======
+路由: `/jandan/:sub_model`
+
+> > > > > > > upstream/master
+
 ### 妹子图
 
 举例: [https://rsshub.app/jandan/ooxx](https://rsshub.app/jandan/ooxx)
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 路由: `/jandan/pic`
 =======
 路由: `/jandan/:sub_model`
 
-> > > > > > > 1487b50a71ee625af58aa0088b914b5ba35e7e21
+> > > > > > > # 1487b50a71ee625af58aa0088b914b5ba35e7e21
+> > > > > > >
+> > > > > > > 路由: `/jandan/:sub_model`
+> > > > > > > upstream/master
 
 参数: 无
 
